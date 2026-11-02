@@ -6,12 +6,13 @@ I work with Python, SQL, and AI evaluation. I bring business analysis experience
 
 ## Selected work
 
+- **[Napolean Cyber Command](https://huggingface.co/spaces/PabloRod11/napolean-cyber-command)** — A private browser-local prototype for analyst-led security review, five-hat workbooks, evidence decisions, remediation tracking and frozen reports. The November 2 release passed 42 Node engine tests, 16 Chromium storage checks and two browser workflows with synthetic fixtures. Uses bounded heuristics and human review; no ML model, autonomous agent or live scanning. Space access is required.
 - **[ServiceLedger SQL Reconciliation](https://huggingface.co/spaces/PabloRod11/service-ledger-sql-reconciliation)** — SQL checks for disagreements between orders, activations, and billing, with an owner and next step for each exception. Uses synthetic data.
 - **[Occupation Review Studio](https://huggingface.co/spaces/PabloRod11/occupation-review-studio)** — An occupation-task classifier with confidence thresholds and a simulated human-review queue. [Model and evaluation](https://huggingface.co/PabloRod11/occupation-hitl-classifier).
 - **[Imperial ML Laboratory](https://huggingface.co/spaces/PabloRod11/imperial-ml-laboratory)** — A browser inference demo paired with Python training, validation, and checkpoint recovery.
 
 - **[QuantLab Probability Research](https://huggingface.co/spaces/PabloRod11/quantlab-probability-research)** — Browser-local probability modeling with chronological validation, numerical checks, input fingerprints, and audit exports. Synthetic/reference-data research; no trading-edge claim.
-- **[Imperial LLM model 004](https://huggingface.co/spaces/PabloRod11/imperial-llm)** — Adapted and continued an upstream-derived educational character Transformer with browser inference. The published card records 6.20% lower next-character test loss on a fresh 64-story same-domain sample; this does not establish reasoning or instruction-following ability.
+- **[Imperial LLM Model 005](https://huggingface.co/spaces/PabloRod11/imperial-llm)** — Adapted an upstream-derived educational character Transformer for Python training and browser-worker inference, with seeded generation, bounded KV caching and Python/JavaScript parity checks. The release records 38 focused Python tests and two browser-export suites. All 12 reviewed continuations failed prose-quality checks; it has no established reasoning or instruction-following capability.
 
 ## Code and reusable workflows
 
@@ -30,11 +31,11 @@ See the [recorded validation results](https://github.com/pablorod11/ML-AI-Projec
 
 ## Resumes
 
-Updated October 27, 2026. Each PDF is two pages and links to current project evidence.
+Updated November 2, 2026. Each PDF is two pages and links to current project evidence.
 
-- [Python Developer and Software Engineer](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/python-software-engineer-resume.pdf?v=39)
-- [AI and ML Evaluation](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/ai-mlops-resume.pdf?v=39)
-- [Business Systems and Data Quality](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/business-systems-resume.pdf?v=39)
+- [Python Developer and Software Engineer](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/python-software-engineer-resume.pdf?v=20261102)
+- [AI and ML Evaluation](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/ai-mlops-resume.pdf?v=20261102)
+- [Business Systems and Data Quality](https://pablo-rodriguez-portfolio.awakejoy13.chatgpt.site/business-systems-resume.pdf?v=20261102)
 
 ## Background
 
