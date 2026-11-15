@@ -6,7 +6,8 @@ I work with Python, SQL, and AI evaluation. I bring business analysis experience
 
 ## Selected work
 
-- **[Napolean Cyber Command](https://huggingface.co/spaces/PabloRod11/napolean-cyber-command)** — A public browser-local prototype for analyst-led security review, five-hat workbooks, evidence decisions, remediation tracking and frozen reports. The November 2 release passed 42 Node engine tests, 16 Chromium storage checks and two browser workflows with synthetic fixtures. Uses bounded heuristics and human review; no ML model, autonomous agent or live scanning. The Space is publicly accessible.
+- **[Orbis](https://huggingface.co/spaces/PabloRod11/ledgerline-business-analyst)** — Infrastructure analytics for capacity planning and vendor unit economics, with a synthetic demo dataset and a local data companion. [Source](https://github.com/pablorod11/huggingface-spaces/tree/main/projects/orbis).
+- **[Veyra](https://huggingface.co/spaces/PabloRod11/napolean-cyber-command)** — A browser-local security workbench for analyst-led reviews, evidence decisions, remediation tracking, and frozen reports. Uses bounded heuristics and human review; no autonomous scanning. [Source](https://github.com/pablorod11/huggingface-spaces/tree/main/projects/napolean-cyber-command).
 - **[ServiceLedger SQL Reconciliation](https://huggingface.co/spaces/PabloRod11/service-ledger-sql-reconciliation)** — SQL checks for disagreements between orders, activations, and billing, with an owner and next step for each exception. Uses synthetic data.
 - **[Occupation Review Studio](https://huggingface.co/spaces/PabloRod11/occupation-review-studio)** — An occupation-task classifier with confidence thresholds and a simulated human-review queue. [Model and evaluation](https://huggingface.co/PabloRod11/occupation-hitl-classifier).
 - **[Imperial ML Laboratory](https://huggingface.co/spaces/PabloRod11/imperial-ml-laboratory)** — A browser inference demo paired with Python training, validation, and checkpoint recovery.
@@ -15,6 +16,8 @@ I work with Python, SQL, and AI evaluation. I bring business analysis experience
 - **[Imperial LLM Model 005](https://huggingface.co/spaces/PabloRod11/imperial-llm)** — Adapted an upstream-derived educational character Transformer for Python training and browser-worker inference, with seeded generation, bounded KV caching and Python/JavaScript parity checks. The release records 38 focused Python tests and two browser-export suites. All 12 reviewed continuations failed prose-quality checks; it has no established reasoning or instruction-following capability.
 
 ## Code and reusable workflows
+
+**[Hugging Face Spaces source](https://github.com/pablorod11/huggingface-spaces)** contains the source snapshots for Orbis, Veyra, and my other public Spaces, with project documentation and release provenance.
 
 **[ML, AI, and MLOps projects](https://github.com/pablorod11/ML-AI-Projects)** contains 11 maintained notebook studies covering retrieval, model evaluation, drift monitoring, and routing. The notebooks use synthetic examples or bundled datasets; several LLM studies simulate responses and costs.
 
