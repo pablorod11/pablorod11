@@ -23,14 +23,16 @@ I work with Python, SQL, and AI evaluation. I bring business analysis experience
 
 The [exact-response cache](https://github.com/pablorod11/ML-AI-Projects/tree/main/caching) adds standard-library LRU/TTL handling with configuration-aware keys and eight documented tests. Its repeated-input benchmark uses a mock provider; it does not measure real-provider savings.
 
-The repository also includes skills I built to coordinate and check engineering work:
+I maintain the reusable engineering skills in [agent-skills](https://github.com/pablorod11/agent-skills):
 
-- [Napolean](https://github.com/pablorod11/ML-AI-Projects/tree/main/napolean): assign bounded specialist tasks and verify the integrated result.
-- [Napolean Security](https://github.com/pablorod11/ML-AI-Projects/tree/main/napolean-security): coordinate scoped security reviews and validate findings against evidence.
-- [Design Workflow](https://github.com/pablorod11/ML-AI-Projects/tree/main/design-workflow): connect interface design, implementation, audits, and browser checks.
-- [Euclidean](https://github.com/pablorod11/ML-AI-Projects/tree/main/euclidean): check explicit claims against stated premises, with a Python capacity-checking example.
+- [Napolean](https://github.com/pablorod11/agent-skills/tree/main/napolean): assign bounded specialist tasks and verify the integrated result.
+- [Napolean Security](https://github.com/pablorod11/agent-skills/tree/main/napolean-security): coordinate scoped security reviews and validate findings against evidence.
+- [Design Workflow](https://github.com/pablorod11/agent-skills/tree/main/design-workflow/skills/design-workflow): connect interface design, implementation, audits, and browser checks.
+- [Euclidean](https://github.com/pablorod11/agent-skills/tree/main/euclidean): check explicit claims against stated premises, with a Python capacity-checking example.
 
-See the [recorded validation results](https://github.com/pablorod11/ML-AI-Projects/blob/main/validation/CURRENT_RESULTS.md) for dated checks and their limits. Offline checks do not establish production readiness or live-service compatibility.
+- [Awesome Design References](https://github.com/pablorod11/agent-skills/tree/main/design-workflow/skills/awesome-design-references): find concrete examples from an attributed design catalog.
+
+The November 15 offline check passed 23 regression tests, eight cache tests, and all 11 notebooks containing 352 code cells. See the [recorded validation results](https://github.com/pablorod11/ML-AI-Projects/blob/main/validation/CURRENT_RESULTS.md) for dated checks and their limits. Offline checks do not establish production readiness or live-service compatibility.
 
 ## Resumes
 
